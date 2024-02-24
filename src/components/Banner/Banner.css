@@ -1,0 +1,797 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cards-section{
+    width:  90%;
+height: Hug (2,940px);
+top: 2971px;
+left: 120px;
+padding: 206px, 0px, 304px, 0px;
+gap: 47px;
+
+
+
+
+
+}
+.card-first-section{
+    width: Hug (1,272px);
+height: Hug (680px);
+padding: 85px, 0px, 85px, 0px;
+gap: 47px;
+
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+.card-first-section-card1{
+    width: 393px;
+height: 510px;
+border-radius: 30px;
+background: hsla(0, 0%, 25%, 1);
+box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+margin-top: -8rem;
+
+
+}
+.card-first-section-card1:hover{
+    transform: scale(1.1);
+}
+.top-section-card1{
+    width: 393px;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.top-section-round-card1{
+    width: 205px;
+height: 205px;
+top: 29px;
+left: 94px;
+padding: 37.27px, 24.68px, 37.63px, 21.74px;
+border-radius: 239.17px;
+background: hsla(40, 24%, 90%, 1);
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.top-section-round-card1 img{
+    width: 158.58px;
+height: 130.1px;
+top: 37.27px;
+left: 21.74px;
+
+
+}
+
+.text-section-card1{
+    width: Hug (341px);
+height: Hug (190px);
+top: 300px;
+left: 26px;
+gap: 9px;
+
+}
+.text-section-heading-card1{
+    width: Hug (179px);
+height: Hug (59px);
+margin-left: auto;
+margin-right: auto;
+
+}
+.text-section-main-heading-card1{
+    width: 179px;
+height: 36px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.text-section-main-heading-card1 p{
+    font-family: Evolventa;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0.2800000011920929px;
+    text-align: center;
+    color: hsla(0, 0%, 100%, 1);
+
+    
+}
+
+
+.text-section-sub-heading-card1{
+
+    width: 56px;
+height: 23px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.text-section-sub-heading-card1 p{
+    font-family: Evolventa;
+font-size: 24px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+color: hsla(0, 0%, 100%, 1);
+
+}
+.text-section-text-card1{
+    width: 341px;
+height: 122px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+.text-section-textp-card1{
+    display: flex;
+    justify-content: center;
+}
+.text-section-textp-card1 p{
+    font-family: Evolventa;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2800000011920929px;
+    
+
+    color: hsla(0, 0%, 100%, 1);
+
+    
+}
+
+.text-section-text-btn-card1 {
+    width: Hug (79px);
+height: Hug (20px);
+top: 468px;
+left: 157px;
+gap: 4px;
+
+}
+.text-section-text-btn-card1 button{
+    font-family: Evolventa;
+font-size: 20px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+padding: 0;
+background-color: transparent;
+color: hsla(0, 0%, 100%, 1);
+border: none;
+border-bottom: 1px solid hsla(0, 0%, 100%, 1);
+
+}
+
+/* second card */
+
+.card-first-section-card2{
+    width: 393px;
+height: 510px;
+border-radius: 30px;
+background: hsla(0, 0%, 100%, 1);
+
+box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+margin-top: -15rem;
+}
+.card-first-section-card2:hover{
+    transform: scale(1.1);
+}
+.top-section-card2{
+    width: 393px;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.top-section-round-card2{
+    width: 205px;
+height: 205px;
+top: 29px;
+left: 94px;
+padding: 37.27px, 24.68px, 37.63px, 21.74px;
+border-radius: 239.17px;
+background: hsla(0, 100%, 96%, 1);
+background: hsla(40, 24%, 90%, 1);
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.top-section-round-card2 img{
+    width: 204.25px;
+    height: 204.25px;
+    top: 0.75px;
+    left: 0.75px;
+    border-radius: 239.17px;
+    
+
+
+}
+
+.text-section-card2{
+    width: Hug (341px);
+height: Hug (190px);
+top: 300px;
+left: 26px;
+gap: 9px;
+
+}
+.text-section-heading-card2{
+    width: Hug (179px);
+height: Hug (59px);
+margin-left: auto;
+margin-right: auto;
+
+}
+.text-section-main-heading-card2{
+    width: 179px;
+height: 36px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.text-section-main-heading-card2 p{
+    font-family: Evolventa;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0.2800000011920929px;
+    text-align: center;
+    color: hsla(0, 0%, 19%, 1);
+
+
+    
+}
+
+
+.text-section-sub-heading-card2{
+
+    width: 56px;
+height: 23px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.text-section-sub-heading-card2 p{
+    font-family: Evolventa;
+font-size: 24px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+color: hsla(0, 0%, 12%, 1);
+
+
+}
+.text-section-text-card2{
+    width: 341px;
+height: 122px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+.text-section-textp-card2{
+    display: flex;
+    justify-content: center;
+}
+.text-section-textp-card2 p{
+    font-family: Evolventa;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2800000011920929px;
+    
+
+    color: hsla(0, 0%, 19%, 1);
+
+
+    
+}
+
+.text-section-text-btn-card2 {
+    width: Hug (79px);
+height: Hug (20px);
+top: 468px;
+left: 157px;
+gap: 4px;
+
+}
+.text-section-text-btn-card2 button{
+    font-family: Evolventa;
+font-size: 20px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+padding: 0;
+background-color: transparent;
+color: hsla(0, 0%, 0%, 1);
+
+border: none;
+border-bottom: 1px solid hsla(0, 0%, 0%, 1);
+
+}
+
+
+@media screen and (max-width:1050px){
+
+    .card-first-section{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .card-second-section-card1{
+        margin: 0;
+    }
+    .card-second-section-card2{
+        margin: 0;
+    }
+    .card-second-section-card3{
+        margin: 0;
+    }
+}
+
+
+/* second section */
+
+.card-second-section{
+
+    width: Hug (1,272px);
+    height: Hug (680px);
+    padding: 85px, 0px, 85px, 0px;
+    
+    padding: 4rem 0;
+    display: flex;
+    
+   
+  
+    
+}
+.card-second-section-card3{
+
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 100%, 1);
+    
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-right: 5px;
+
+}
+
+.card-second-section-card3:hover{
+    transform: scale(1.1);
+}
+.card-second-section-card4{
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 100%, 1);
+    
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-top: -4rem;
+    
+
+}
+.card-second-section-card4:hover{
+    transform: scale(1.1);
+}
+.card-second-section-card5{
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 25%, 1);
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-bottom: 0;
+    margin-left: 3rem;
+
+}
+.card-second-section-card5:hover{
+    transform: scale(1.1);
+}
+.top-section-round-card5 img{
+    width: 204.25px;
+    height: 204.25px;
+    top: 0.75px;
+    left: 0.75px;
+    border-radius: 239.17px;
+    
+
+
+}
+@media screen and (max-width:1050px){
+
+    .card-second-section{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .card-second-section-card3{
+        margin: 0;
+    }
+    .card-second-section-card4{
+        margin: 0;
+    }
+    .card-second-section-card5{
+        margin: 0;
+    }
+}
+
+
+/* third section */
+
+
+.card-third-section{
+    width: Hug (1,272px);
+    height: Hug (680px);
+    padding: 85px, 0px, 85px, 0px;
+    
+    padding: 6rem 0 ;
+    display: flex;
+   
+    
+
+}
+.card-third-section-card6{
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 25%, 1);
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-right: 3rem;
+
+}
+.card-third-section-card6:hover{
+    transform: scale(1.1);
+}
+
+
+.card-third-section-card7{
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 100%, 1);
+    
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-top: -4rem;
+}
+
+.card-third-section-card7:hover{
+    transform: scale(1.1);
+}
+
+.top-section-round-card7 img{
+    width: 204.25px;
+    height: 204.25px;
+    top: 0.75px;
+    left: 0.75px;
+    border-radius: 239.17px;
+    
+
+
+}
+.card-third-section-card8{
+    width: 393px;
+    height: 510px;
+    border-radius: 30px;
+    background: hsla(0, 0%, 100%, 1);
+    
+    box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+    margin-left: 5px;
+}
+.card-third-section-card8:hover{
+    transform: scale(1.1);
+}
+
+
+@media screen and (max-width:1050px){
+
+    .card-third-section{
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 1rem 0 ;
+    }
+    .card-second-section-card6{
+        margin: 0;
+        margin-right: 0;
+    }
+    .card-second-section-card7{
+        margin: 0;
+        margin-top: 0;
+       
+    }
+    .card-second-section-card8{
+        margin:0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .cards2{
+    width: Fixed (1,272px);
+height: Hug (834px);
+padding: 162px, 0px, 162px, 0px;
+gap: 47px;
+margin-top: 17rem;
+margin: 25rem 3rem 3rem 3rem;
+display: flex;
+justify-content:space-between;
+
+}
+.card1{
+    width: 393px;
+height: 510px;
+border-radius: 30px;
+background: hsla(0, 0%, 100%, 1);
+box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+
+
+}
+.card2{
+    width: 393px;
+height: 510px;
+border-radius: 30px;
+background: hsla(0, 0%, 100%, 1);
+box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+margin-top: -50px;
+
+}
+.card2:hover{
+    transform: scale(1.1);
+}
+
+.card2-img-section{
+    width: 320px;
+height: 317px;
+top: -28px;
+left: -128px;
+border-top-right-radius: 120px;
+border-bottom-right-radius: 250px;
+background: hsla(0, 100%, 96%, 1);
+
+
+}
+.card2-img{
+    width: 205px;
+height: 205px;
+top: 29px;
+left: 94px;
+padding: 37.27px, 24.68px, 37.63px, 21.74px;
+border-radius: 239.17px;
+padding-top: 2rem;
+margin-left: auto;
+margin-right: auto;
+background: hsla(40, 24%, 90%, 1);
+
+
+
+}
+.card2-img img{
+    width: 158.58px;
+    height: 190.1px;
+    top: 37.27px;
+    left: 21.74px;
+    
+}
+.text-section{
+width: Hug (341px);
+height: Hug (190px);
+top: 300px;
+left: 26px;
+gap: 9px;
+
+}
+.card2-heading{
+    width: Hug (179px);
+height: Hug (59px);
+
+}
+.card2-heading h5{
+    font-family: Evolventa;
+font-size: 18px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+.card2-main-heading{
+    font-family: Evolventa;
+font-size: 24px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+margin:0;
+padding:0;
+}
+
+.card2-btn p{
+font-family: Evolventa;
+font-size: 15px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+padding: 0 5px;
+
+}
+
+.card3{
+    width: 392px;
+height: 510px;
+border-radius: 30px;
+background: hsla(0, 0%, 25%, 1);
+box-shadow: 3px 4px 17.100000381469727px 0px hsla(0, 0%, 0%, 0.09);
+margin-bottom: -60px;
+
+
+}
+.card3:hover{
+    transform: scale(1.1);
+}
+
+.card3-img{
+
+}
+.card3-heading h5{
+    color: hsla(0, 0%, 100%, 1);
+    font-family: Evolventa;
+font-size: 18px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+
+}
+.card3-main-heading{
+    color: hsla(0, 0%, 100%, 1);
+    font-family: Evolventa;
+font-size: 18px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+
+}
+.card3-p {
+    font-family: Evolventa;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0.2800000011920929px;
+text-align: center;
+color: hsla(0, 0%, 100%, 1);
+
+}
+@media screen  and (max-width:800px){
+
+    .cards2{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 35rem;
+    }
+    
+    
+} */
